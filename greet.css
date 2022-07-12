@@ -1,0 +1,25 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.radios {
+    display: flex;
+    justify-content: space-between;
+}
+
+h1 {
+    background-color: aqua;
+    border-radius: 20px;
+    box-shadow: aliceblue 2px 3px 1px 1rem;
+}
+
+.nameSec {
+    display: flex;
+}
+
+h4 {
+    text-align: center;
+}
